@@ -7,3 +7,5 @@ Kamu Bisa Mengakses DigiQur'an [Disini](https://digiquran.darrellcorp.repl.co/ab
 
 
 
+
+Copyright ©  Darrell Haidar - Web Qur'an
