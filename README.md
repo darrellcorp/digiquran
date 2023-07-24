@@ -3,7 +3,7 @@ Web Mushaf Al Qur'an Gratis Berbasis React. Dengan 30 Juz, 114 Surah Lengkap den
 
 ## Cara Mengakses 💻
 
-Kamu Bisa Mengakses DigiQur'an Disini [disini](https://digiquran.darrellcorp.repl.co/about).
+Kamu Bisa Mengakses DigiQur'an [Disini](https://digiquran.darrellcorp.repl.co/about).
 
 
 
